@@ -1,0 +1,10 @@
+Input gives information to the program
+Input allows the code to do things differents bcs it gives it new pieces of information
+Output is something that is created by the program?
+num=input("give me a number:") is an example of an input to getting a number
+1. Input: save it to a location ??? (example is num=)
+2. Use keyword input to create an input
+3. Use parentheses, close them
+4. Inside the parentheses, give user instructions on what to do (ex: "Give me a number")
+Dont write answers, write questions.
+Comments are information for humans that the computer ignores
