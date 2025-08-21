@@ -1,5 +1,5 @@
 Input gives information to the program
-Input allows the code to do things differents bcs it gives it new pieces of information
+Input allows the code to do things different bcs it gives it new pieces of information
 Output is something that is created by the program?
 num=input("give me a number:") is an example of an input to getting a number
 1. Input: save it to a location ??? (example is num=)
